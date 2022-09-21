@@ -1,0 +1,3 @@
+# crazycalc
+is a simple calculator ...
+you know 1+1, 2+2... it can do the sums.
